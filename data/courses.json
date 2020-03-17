@@ -1,0 +1,14 @@
+[
+	{
+		"title": "React",
+		"price": "7890",
+		"img": "https://montegrappa.com.ua/wp-content/uploads/2019/03/Samurai-Banner-1200x400.png",
+		"id": "ab80bf50-411f-4542-9278-e15201e45851"
+	},
+	{
+		"title": "Java Script",
+		"price": "6690",
+		"img": "https://i.pinimg.com/originals/dc/77/c1/dc77c11e4522061ccae5b2283cdcec73.jpg",
+		"id": "9779d56b-be6a-4c05-a595-acb97c60f765"
+	}
+]
